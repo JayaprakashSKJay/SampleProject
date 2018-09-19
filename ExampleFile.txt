@@ -1,2 +1,3 @@
+Hi Developer
 This is a sample file created locally to push to the github.
-Doing changes in master branch
+Doing changes in Dev_Release
